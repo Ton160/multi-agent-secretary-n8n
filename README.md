@@ -1,6 +1,6 @@
 # 🤖 AI Secretary (n8n Workflow)
 
-A minimal AI-powered personal assistant built with n8n.
+🚀 AI-powered personal assistant built with n8n and multi-agent architecture.
 
 ## ✨ Features
 
